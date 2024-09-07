@@ -33,13 +33,13 @@ Develop an Android application to retrieve and display patient statuses based on
 ## Here are the some screenshots of the cloned application
 ##
 ## 1. Input Screen ( Home Screen )
-![GitHub Cards Preview](https://miro.medium.com/max/875/1*8o8v4ba2-sgUpqq1jQJSYw.png)
+![GitHub Cards Preview](https://github.com/akashs056/Neoperk-Hospital-Management-App/blob/master/Readme_Images/Home.jpg)
 ##
 ## 2. Patient List Screen :
-![GitHub Cards Preview](https://miro.medium.com/max/875/1*LJ4oNdt8Gdkm5qAhJyQg0g.png)
+![GitHub Cards Preview](https://github.com/akashs056/Neoperk-Hospital-Management-App/blob/master/Readme_Images/list.jpg)
 ##
 ## 3. Patient Detail Screen
-![GitHub Cards Preview](https://miro.medium.com/max/875/1*BdkgTec-C1TLmePiw06e0w.png)
+![GitHub Cards Preview](https://github.com/akashs056/Neoperk-Hospital-Management-App/blob/master/Readme_Images/detail.jpg)
 
 
 ##
