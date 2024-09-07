@@ -1,6 +1,6 @@
 # Neoperk
 
-## The Journey of making Dunzo Android App
+## Hospital Management Android App
 Develop an Android application to retrieve and display patient statuses based on a provided hospital ID. The app should feature a user-friendly interface with the ability to search for patients by name, status, and other criteria.
 
 
